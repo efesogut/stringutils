@@ -41,26 +41,6 @@ func main(){
 
 ---
 
-## Makefile
-
-```bash
-make help
-```
-
-Commands usage:
-
-```bash
-make <command>
-
-commands:
-
-test       run tests
-testfuzz   run tests with fuzz (30 seconds)
-bench      run benchmark tests
-doc        run godoc server at 3000 unless PORT env-var is set
-```
-
-
 ## Contributor(s)
 
 * [Uğur Özyılmazel](https://github.com/efesogut) - Creator, maintainer
@@ -71,7 +51,7 @@ doc        run godoc server at 3000 unless PORT env-var is set
 
 All PR’s are welcome!
 
-1. `fork` (https://github.com/efesogut/stringutils-demo/fork)
+1. `fork` (https://github.com/efesogut/stringutils/fork)
 1. Create your `branch` (`git checkout -b my-feature`)
 1. `commit` yours (`git commit -am 'add some functionality'`)
 1. `push` your `branch` (`git push origin my-feature`)
