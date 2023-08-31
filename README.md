@@ -43,7 +43,7 @@ func main(){
 
 ## Contributor(s)
 
-* [Uğur Özyılmazel](https://github.com/efesogut) - Creator, maintainer
+* [Efe Söğüt](https://github.com/efesogut) - Creator, maintainer
 
 ---
 
